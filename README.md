@@ -45,7 +45,7 @@ Importar el proyecto (archivo zip) con Eclipse de la siguiente forma:
 - Ir al Menu "File" y seleccionar "Import..."  
 - Elegir General y luego "Projects from Folder or Archive"
 - En la ventana elegir en "Import Source" en botón "Archive..." para seleccionar el archivo .zip.
-- En folder desmarcar el folder que tiene el nombre con la palabra "expanded".
+- En folder desmarcar el folder que tiene el nombre con la palabra "expanded" y que no dice "Eclipse project".
 - Presionar el botón "Finish".
 
 El proyecto viene incorporado con el driver para Chromium de Linux, se encuentra en el directorio: `src/test/resources/drivers`   
@@ -69,3 +69,6 @@ El diagrama se realizó con [https://www.draw.io/](https://www.draw.io/)
 
 ![Diagrama](DiagramPages.png)
 
+## Github
+
+URL: [https://github.com/georgeguitar/proyecto_test.git](https://github.com/georgeguitar/proyecto_test.git)
